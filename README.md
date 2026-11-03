@@ -448,4 +448,3 @@ Maintained by the team at [Kairos](https://kairos.trade), a cross-venue predicti
 ## License
 
 Data (`tools.json`) and text: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Scripts: MIT.
-
